@@ -1,0 +1,32 @@
+html{
+    background-color: #212529;
+    color: white;
+}
+
+body{
+    margin: auto;
+    font-family: arial;
+}
+
+nav{
+    background-color: #0f1113;
+    padding: 15px;
+    display: flex;
+}
+
+.listado-div{
+    margin-left: 10%;
+}
+
+h3{
+    margin-left: 2%;
+}
+ul{
+    margin-left: 2%;
+    list-style-type: none;
+}
+
+img{
+    width: 35px;
+    height: auto;
+}
